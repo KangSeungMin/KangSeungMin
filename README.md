@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=yellow&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -17,11 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://capsule-render.vercel.app/api?
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
-![header](https://capsule-render.vercel.app/api?type=slice)
