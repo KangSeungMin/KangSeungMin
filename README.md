@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=yellow&height=300&section=header&text=capsule%20render&fontSize=90)
-
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -9,7 +7,10 @@
 
 Here are some ideas to get you started:
 
+### Carrer 👋
 - 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
