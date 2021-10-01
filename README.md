@@ -13,12 +13,10 @@ Back-End 개발자를 꿈꾸는 주니어입니다
 - MyPT : 코로나19 팬데믹으로 인한 맞춤 홈트레이닝
 - 워크홈 : 조직 구성원들이 업무 활동을 원활하게 수행할 수 있도록 지원하는 협업 SW 그룹웨어
 
-### 🥇 Awards
-- (2016) 동서대학교 소프트웨어융합 학술대회 논문 우수상
-- (2017) 동서대학교 창의인재 융합아이디어 장려상
-- (2017) 동서대학교 상상실현페스티벌 자율프로젝트 장려상
-- (2017) HCI 학회 논문 투고
-- (2018) HCI 학회 논문 투고
+### 🥇 경력 사항
+- (2018. 07. 23 ~ 2020. 03. 27) 빌포스트 근무
+- (2019. 03. 28 ~ 2020. 11. 20) IBK 기업은행 파견
+- (2021. 02. 15 ~ 2021. 09. 16) KH정보교육원 교육 이수
 
 ### 🔍 습득 기술
 1. SQL Programming
@@ -31,7 +29,9 @@ Back-End 개발자를 꿈꾸는 주니어입니다
 
 3. HTML / CSS / JavaScript / jQuery
 
-4. Android
+4. ETC
+  - Android
+  - Pro-c
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
