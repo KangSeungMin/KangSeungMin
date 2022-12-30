@@ -14,24 +14,22 @@ Back-End 개발자를 꿈꾸는 주니어입니다
 - 워크홈 : 조직 구성원들이 업무 활동을 원활하게 수행할 수 있도록 지원하는 협업 SW 그룹웨어
 
 ### 🥇 경력 사항
-- (2018. 07. 23 ~ 2020. 03. 27) 빌포스트 근무
-- (2019. 03. 28 ~ 2020. 11. 20) IBK 기업은행 파견
+- (2018. 07. 23 ~ 2020. 11. 20) 빌포스트 근무
 - (2021. 02. 15 ~ 2021. 09. 16) KH정보교육원 교육 이수
+- (2021. 11. 09 ~ 2023. 01. 13) 이제너두 근무
 
 ### 🔍 습득 기술
-1. SQL Programming
-- Oracle (SQL Developer)
-- MySQL
+1. DBMS
+- Oracle, MySQL
 
-2. JAVA
-- Servlet / JSP, JDBC
-- Spring Framework, Mybatis, Ajax
+2. 형상관리
+- SVN, Jenkins
 
-3. HTML / CSS / JavaScript / jQuery
+3. Framework
+- Spring, MyBatis
 
-4. ETC
-  - Android
-  - Pro-c
+4. Language
+- JAVA, JSP, jQuery
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
